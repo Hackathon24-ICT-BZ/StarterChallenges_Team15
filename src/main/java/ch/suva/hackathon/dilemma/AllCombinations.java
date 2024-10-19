@@ -10,10 +10,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class StrategyEvaluator {
+public class AllCombinations {
     public static void main(String[] args) {
-        var evaluator = new StrategyEvaluator();
-        evaluator.run();
+        var allCombinations = new AllCombinations();
+        allCombinations.run();
     }
 
     public void run() {
